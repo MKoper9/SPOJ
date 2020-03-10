@@ -11,6 +11,7 @@ class Main {
         for (int i = 0; i < declarate; i++) {
 
             String pesel = scanner.next();
+
             char[] chars = pesel.toCharArray();
 
             int[] charToInt = new int[pesel.length()];
