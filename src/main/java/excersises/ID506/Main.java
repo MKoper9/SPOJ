@@ -1,4 +1,4 @@
-package ID506;
+package excersises.ID506;
 
 import java.util.ArrayList;
 import java.util.List;
