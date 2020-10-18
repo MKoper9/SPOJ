@@ -25,12 +25,5 @@ class Main {
                 result+=bigger;
             }
             System.out.println(result);
-
-
         }
-
-
-
-
-
     }}
